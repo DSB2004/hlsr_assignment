@@ -24,4 +24,4 @@ To get started with this project, follow the setup instructions in the respectiv
 
 ## Video Demo Link
 
-- [`Demo Link`]()
+- [`Demo Link`](https://drive.google.com/file/d/1-m9pIxZZpLPo1yvP4-jfZj7Ew_af6qvp/view?usp=sharing)
